@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    width: 90%;
+    margin: auto;
+}
+
+nav {
+    background-color: orangered;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.menu {
+    display: inline;
+}
+.login {
+    display: inline;
+    float: right;
+}
+
+.logo {
+    display: inline;
+    margin: 0;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+.post {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+img {
+    width: 2%;
+}
+
+h3 {
+    font-weight: normal;
+    color: dimgray;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.title {
+    color: black;
+}
+
+.details{
+    color: dimgray;
+    margin-left: 30px;
+}
